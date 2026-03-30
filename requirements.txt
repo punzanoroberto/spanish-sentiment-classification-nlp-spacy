@@ -1,0 +1,12 @@
+pandas
+numpy
+spacy
+transformers
+sklearn
+matplotlib
+seaborn
+torch
+numpy
+html
+datasets
+huggingface_hub
