@@ -27,7 +27,7 @@ Linguistic data curation in `spaCy` showed a **consistent improvement across all
 2.  **Label Noise:** Identified instances where human annotation in the original dataset was inconsistent with the textual sentiment.
 3.  **Neutral Bias:** Model 2 became more "careful," occasionally classifying extreme sentiments as neutral to avoid false positives.
 
-## 🛠️ Requirements & Resources
+## 💻 Requirements & Resources
 * `transformers` library for model fine-tuning.
 * `spaCy` for POS tagging and lemmatization.
 * `MultiLingualSentiment` dataset from Hugging Face.
